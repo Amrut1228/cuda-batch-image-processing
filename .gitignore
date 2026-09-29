@@ -1,0 +1,3 @@
+signal_batch
+__pycache__/
+!rm -f signal_batch

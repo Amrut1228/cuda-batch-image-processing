@@ -1,0 +1,13 @@
+CUDA Batch Signal Processing
+Signals: 512
+Samples per signal: 4096
+Total samples: 2097152
+Moving-average radius: 2
+GPU: Tesla T4
+Global memory: 14.5632 GB
+CPU processing time: 16.0615 ms
+GPU end-to-end time: 4.4326 ms
+GPU kernel time: 0.3073 ms
+CPU/GPU max absolute error: 0.0000
+Validation: PASS
+Throughput: 473.1197 million samples/second
